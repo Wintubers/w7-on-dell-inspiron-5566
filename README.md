@@ -3,11 +3,17 @@ This project aims to get Windows 7 fully working on the base model Dell Inspiron
 
 ## Specs of the laptop
 These are the specs of the base model Dell Inspiron 5566
+
 **CPU**: Intel Core i3-7100U (with Intel HD Graphics 620)
+
 **RAM**: came with 8GB DDR4
+
 **Storage**: came with a Toshiba 1TB 5400 RPM HDD
+
 **OS**: Shipped originally with Windows 10 1607 Update
+
 **DVD Drive**
+
 **15-inch Touchscreen Display**
 
 ### What's currently working
