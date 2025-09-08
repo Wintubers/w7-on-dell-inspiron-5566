@@ -36,3 +36,14 @@ These will get added in the future and updates on it will be made to the website
 
 ### Installation Instructions
 To install this, visit the website and check the instructions on the site.
+
+### Supported CPUs
+This project has a couple of supported CPUs
+
+- Intel Core i3-7100U (this is what this is tested on)
+- Intel Core i5-7200U (not tested)
+- Intel Core i7-7500U (not tested)
+- Intel Core i5-7300U (not tested)
+- Intel Core i7-7600U (not tested)
+
+The Intel Celeron N3060 is not tested and is NOT confirmed to work
