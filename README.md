@@ -1,5 +1,5 @@
 # Windows 7 on the Dell Inspiron 5566
-This project aims to get Windows 7 fully working on the i3 model Dell Inspiron 5566 from 2017. These are made for the one with the i3-7100U but should work with every model except for the base model which has the Intel Celeron CPU. Make sure you have Intel HD Graphics 620
+This project aims to get Windows 7 fully working on the i3 model Dell Inspiron 5566 from 2017. These are made for the one with the i3-7100U but should work with every model except for the base model which has the Intel Celeron CPU. Make sure you have Intel HD Graphics 620. This may work on a Dell Inspiron 5567 too (however this hasn't been tested by me)
 
 ## Specs of the laptop
 These are the specs of the base model Dell Inspiron 5566
