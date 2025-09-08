@@ -24,12 +24,13 @@ These are the specs of the base model Dell Inspiron 5566
 
 📀 DVD (works out of box, no driver needed)
 
+💾 USB Drivers (Currently being tested with modded driver!)
+
+
 ### What's not working
 These will get added in the future and updates on it will be made to the website too
 
 🌐 Internet (no internet drivers)
-
-💾 USB Drivers (No USB Drivers currently work)
 
 💻 Touchscreen (touchscreen does not work currently)
 
