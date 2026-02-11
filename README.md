@@ -26,13 +26,14 @@ These are the specs of the i3 model of the Dell Inspiron 5566
 
 💾 USB Drivers (Currently being tested with modded driver!)
 
+⎚ Touchscreen (now works due to an update to the ISO!)
+
 
 ### What's not working
 These will get added in the future and updates on it will be made to the website too
 
 🌐 Internet (no internet drivers)
 
-💻 Touchscreen (touchscreen does not work currently)
 
 ### Installation Instructions
 To install this, visit the website and check the instructions on the site.
